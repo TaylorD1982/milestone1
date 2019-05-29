@@ -1,267 +1,297 @@
  /*-------------------------Banner Image--------*/
 
  .mobileShow {
-     display: none;
+  display: none;
  }
 
- @media only screen and (min-device-width: 0px) and (max-device-width: 480px) {
-     .mobileShow {
-         display: inline;
-     }
+ @media only screen and (min-device-width: 0px) and (max-device-width: 1000px) {
+  .mobileShow {
+   display: inline;
+  }
  }
 
  .mobileHide {
-     display: inline;
+  display: inline;
  }
 
- @media only screen and (min-device-width: 0px) and (max-device-width: 480px) {
-     .mobileHide {
-         display: none;
-     }
+ @media only screen and (min-device-width: 0px) and (max-device-width: 1000px) {
+  .mobileHide {
+   display: none;
+  }
  }
 
 
  .mobileShow1 {
-     display: none;
+  display: none;
  }
 
- @media only screen and (min-device-width: 0px) and (max-device-width: 480px) {
-     .mobileShow1 {
-         display: inline;
-     }
+ @media only screen and (min-device-width: 0px) and (max-device-width: 1000px) {
+  .mobileShow1 {
+   display: inline;
+  }
  }
 
  .mobileHide1 {
-     display: inline;
+  display: inline;
  }
 
- @media only screen and (min-device-width: 0px) and (max-device-width: 480px) {
-     .mobileHide1 {
-         display: none;
-     }
+ @media only screen and (min-device-width: 0px) and (max-device-width: 1000px) {
+  .mobileHide1 {
+   display: none;
+  }
  }
 
  /*-------------------------Social Media--------*/
 
  .social-media-icons {
-     text-align: center;
-     background-color: black;
-     color: #e1e1e1;
-     word-spacing: 25px;
-     font-size: 1.75em;
+  text-align: center;
+  background-color: black;
+  color: #e1e1e1;
+  word-spacing: 25px;
+  font-size: 1.75em;
+  padding-bottom: 50px;
  }
 
  a {
-     color: white;
-     text-decoration: none;
+  color: white;
+  text-decoration: none;
  }
 
  a:hover {
-     text-decoration: none;
-     color: #d4d4d6;
+  text-decoration: none;
+  color: #d4d4d6;
  }
 
  /*-------------------------Nav Bar--------*/
 
  .navbar-nav {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 1.5em;
-     line-height: 15px;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.5em;
+  line-height: 15px;
  }
 
  .navbar-dark .navbar-nav .nav-link {
-     color: rgb(194, 194, 163);
+  color: rgb(194, 194, 163);
  }
 
  .nav-item {
-     padding-left: 25px;
-     padding-right: 25px;
-     padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 10px;
  }
 
  /*-------------------------Footer--------*/
 
  .blockquote {
-     padding-bottom: 0px;
-     padding-top: 20px;
-     text-align: center;
-     color: #A9A9A9;
-     background-color: black;
-     font-family: 'EB Garamond', serif;
-     font-size: 1.25em;
-     font-weight: lighter;
+  padding-bottom: 0px;
+  padding-top: 40px;
+  text-align: center;
+  color: #A9A9A9;
+  background-color: black;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25em;
+  font-weight: lighter;
  }
 
  .row {
-     background-color: black;
+  background-color: black;
  }
 
  .btn {
-     background-color: #ba9851;
+  background-color: #ba9851;
  }
 
  .btn-default {
-     color: #34300b;
-     border-color: #907933;
-     font-family: 'Chewy', cursive;
-     font-size: 1em;
+  color: #34300b;
+  border-color: #907933;
+  font-family: 'Chewy', cursive;
+  font-size: 1em;
  }
 
  .btn:hover {
-     opacity: 0.7;
+  opacity: 0.7;
  }
 
  /*-------------------------Photographs--------*/
 
  .photo-heading {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 2em;
-     background-color: black;
-     color: rgb(194, 194, 163);
-     padding-top: 15px;
-     padding-bottom: 10px;
-     text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2em;
+  background-color: black;
+  color: rgb(194, 194, 163);
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
  }
 
  .photo-heading-live {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 1.5em;
-     background-color: black;
-     color: rgb(194, 194, 163);
-     padding-top: 0px;
-     padding-bottom: 30px;
-     text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.5em;
+  background-color: black;
+  color: rgb(194, 194, 163);
+  padding-top: 0px;
+  padding-bottom: 30px;
+  text-align: center;
  }
 
  /*-------------------------Testimonials--------*/
 
  .testemonials-heading {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 2em;
-     background-color: black;
-     color: rgb(194, 194, 163);
-     padding-top: 15px;
-     padding-bottom: 10px;
-     text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2em;
+  background-color: black;
+  color: rgb(194, 194, 163);
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
  }
 
  .testemonial-names {
-     color: rgb(194, 194, 163);
-     font-size: 1.25em;
+  color: rgb(194, 194, 163);
+  font-size: 1.25em;
  }
 
  .couple-images {
-     border-radius: 50%;
-     width: 30%;
-     padding-right: 15px;
-     padding-left: 15px;
+  border-radius: 50%;
+  width: 30%;
+  padding-right: 15px;
+  padding-left: 15px;
  }
 
  /*-------------------------Forms--------*/
 
  .form-group {
-     color: rgb(194, 194, 163);
-     background-color: black;
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 1.3em;
+  color: rgb(194, 194, 163);
+  background-color: black;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1em;
+ }
+
+ .band-description {
+  color: rgb(194, 194, 163);
+  background-color: black;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.3em;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 50px;
+  text-align: center;
  }
  
+ @media (max-width: 992px) {
+  .band-description {
+   padding-left: 20px;
+   padding-right: 20px;
+  }
+ }
+
  .form-control {
-     background-color: #e9ebf1;
+  background-color: #e9ebf1;
  }
- 
+
  form {
-     background-color: black;
-     padding-left: 300px;
-     padding-right: 300px;    
+  background-color: black;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 100px;
+  padding-top: 75px;
  }
- 
- @media (max-width: 992px){
-    form {
-     padding-left: 20px;
-     padding-right: 20px;
-}
-}
- 
+
+ @media (max-width: 992px) {
+  form {
+   padding-left: 20px;
+   padding-right: 20px;
+  }
+ }
+
 
  /*-------------------------News--------*/
 
  .news {
-     background-color: black;
-     padding-left: 50px;
-     padding-right: 50px;
-     padding-bottom: 50px;
-     color: white;
+  background-color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  color: white;
  }
 
  .newspan {
-     padding-left: 10px;
+  padding-left: 10px;
  }
 
  .newspan-image {
-     width: 50px;
+  width: 50px;
  }
 
  .new-heading {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 2em;
-     background-color: black;
-     color: rgb(194, 194, 163);
-     padding-top: 15px;
-     padding-bottom: 10px;
-     text-align: center;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2em;
+  background-color: black;
+  color: rgb(194, 194, 163);
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
  }
 
  .news-headline {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 2em;
-     background-color: black;
-     color: rgb(194, 194, 163);
-     padding-top: 15px;
-     padding-bottom: 10px;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2em;
+  background-color: black;
+  color: rgb(194, 194, 163);
+  padding-top: 15px;
+  padding-bottom: 10px;
  }
- 
+
  .news-list {
-     padding-top: 20px;
-     padding-left: 0px;
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 1.25em;
-     color: white;
-     list-style: none;
+  padding-top: 20px;
+  padding-left: 0px;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 1.25em;
+  color: white;
+  list-style: none;
  }
- 
+
  .btn-success {
-     color: black;
-     border-color: green;
-     background-color: green;
-     font-family: 'Chewy', cursive;
-     font-size: 1em;
-     margin-top: 20px;
+  color: black;
+  border-color: green;
+  background-color: green;
+  font-family: 'Chewy', cursive;
+  font-size: 1em;
+  margin-top: 20px;
  }
 
  /*-------------------------Listen--------*/
 
  .blockquote-listen {
-     padding-top: 40px;
-     text-align: center;
-     color: #A9A9A9;
-     background-color: black;
-     font-family: 'EB Garamond', serif;
-     font-size: 1.25em;
-     font-weight: lighter;
+  padding-top: 40px;
+  text-align: center;
+  color: #A9A9A9;
+  background-color: black;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25em;
+  font-weight: lighter;
  }
 
  .tracks {
-     text-align: center;
+  text-align: center;
  }
 
  .listen-heading {
-     font-family: 'Nanum Myeongjo', serif;
-     font-size: 2em;
-     background-color: black;
-     color: rgb(194, 194, 163);
-     padding-top: 15px;
-     text-align: center;
-     padding-bottom: 40px;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 2em;
+  background-color: black;
+  color: rgb(194, 194, 163);
+  padding-top: 15px;
+  text-align: center;
+  padding-bottom: 40px;
+ }
+
+ audio {
+  width: 250px;
+  height: 54px;
+ }
+ 
+ .blockquote-video {
+  border: 10px outset #ddd;
  }
  
