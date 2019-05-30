@@ -70,43 +70,61 @@ Upcoming gigs to include additional information such as maps, prices, times, dir
 Query this
   
  
-Testing
-The code was tests on validator.w3.org with errors identified and corrected. No errors were identified with the CSS file. 
-How the site works on various screen sizes was checked on developer tools in Google Chrome. 
-Scenario #1
-Someone visits the sight looking to send a query to the band. They choose to do so by clicking on the “Get a Free Quote” button in the site’s footer. 
-“Contact the Weavers” form:
-1)	Go to the “Get a Free Quote” button in the site’s footer. This takes you to the form page. 
-2)	When submitting an empty form, you receive an error message telling you to complete the first field.
-3)	When trying to submit a form with no email address (or an invalid address) you receive an error message.
-4)	When leaving the message field blank, you receive an error message. 
-5)	When all fields are completed correctly, the form can be submitted. 
-Scenario #2
-Someone visits the site on a mobile device and wants to check on the condition of the band’s injured bassist. 
-Navigation bar and “News” page:
-1)	The navigation menu appears as a burger in mobile view.
-2)	The navigation bar drops down when the burger is tapped.
-3)	The visitor selects “News” and is taken to the relevant page.
-4)	The visitor scrolls down to the foot of the page and can click on the “Book a Ticket” button
-Scenario #3
-A visitor comes to the site and clicks on the “Listen” tab. After listening to the video and the tracks on that page the visitor wishes to listen to further material on the band’s YouTube page. 
-Social Media Links:
-1)	The music video on the “Listen Page” plays the video for Daydream Believer
-2)	The five audio clips function correctly.
-3)	The link to the band’s YouTube channel functions correctly. 
-How the site works on different screen sizes: 
-The navigation bar shows all pages on desktop view. This collapses to a burger on smaller screens (mobile phone and I Pad). 
-The social media links remain visible on all screen sizes. 
-The footer elements (the band name and the button to the contact form) are side by side on the footer and appear on top of one another on smaller screens. 
-On the desktop view, the “home” page has a wider image in the body of the site. This image is narrower for screens of a smaller width (I Pad and Cell phone) in order to avoid white space at the foot of the page. 
-On the “photographs”, “listen” and “testimonials” pages the content appears side by side on desktops and stacked above each other on smaller screens. 
-On the “Contact the Weavers” page, the width of the padding is less on smaller screens in order to avoid the content being too vertical on mobiles and tablets. 
-Bugs identified during testing: 
-There were no fatal bugs identified during the testing but validator.w3.org identified a few issues with syntax (the Bootstrap JavaScript links were incorrectly positioned, and images had no alternative).
-Deployment
-The project has been deployed on GitHub Pages. A commit was done for each page once originally created with additional commits as functionality was improved / added. 
-For the site to function correctly when published from Github, it was necessary to enter settings > Github Pages and change the source to Master Branch. 
-I then had to edit each page to that the links in the HTML code were correct for the Github deployment. 
+<h2>Testing</h2>
+
+<p>The code was tests on validator.w3.org with errors identified and corrected. No errors were identified with the CSS file.</p>
+
+<p>How the site works on various screen sizes was checked on developer tools in Google Chrome.<p> 
+
+<h3>Scenario #1</h3>
+
+<p>Someone visits the sight looking to send a query to the band. They choose to do so by clicking on the “Get a Free Quote” button in the site’s footer.</p> 
+<p>“Contact the Weavers” form:</p>
+
+<ol>
+<li>Go to the “Get a Free Quote” button in the site’s footer. This takes you to the form page.</li> 
+<li>When submitting an empty form, you receive an error message telling you to complete the first field.</li>
+<li>When trying to submit a form with no email address (or an invalid address) you receive an error message.</li>
+<li>When leaving the message field blank, you receive an error message. </li>
+<li>When all fields are completed correctly, the form can be submitted.</li>
+</ol>
+
+<h3>Scenario #2</h3>
+<p>Someone visits the site on a mobile device and wants to check on the condition of the band’s injured bassist.<p> 
+<p>Navigation bar and “News” page:<p>
+  
+<ol>
+<li>The navigation menu appears as a burger in mobile view.</li>
+<li>The navigation bar drops down when the burger is tapped.</li>
+<li>The visitor selects “News” and is taken to the relevant page.</li>
+<li>The visitor scrolls down to the foot of the page and can click on the “Book a Ticket” button.</li>
+</ol>  
+  
+<h3>Scenario #3</h3>
+<p>A visitor comes to the site and clicks on the “Listen” tab. After listening to the video and the tracks on that page the visitor wishes to listen to further material on the band’s YouTube page.<p>  
+<p>Social Media Links:</p>
+
+<ol>
+<li>The music video on the “Listen Page” plays the video for Daydream Believer.</li>
+<li>The five audio clips function correctly.</li>
+<li>The link to the band’s YouTube channel functions correctly.</li> 
+</ol>  
+  
+<h2>How the site works on different screen sizes:</h2> 
+<p>The navigation bar shows all pages on desktop view. This collapses to a burger on smaller screens (mobile phone and I Pad).</p> 
+<p>The social media links remain visible on all screen sizes.</p> 
+<p>The footer elements (the band name and the button to the contact form) are side by side on the footer and appear on top of one another on smaller screens.</p> 
+<p>On the desktop view, the “home” page has a wider image in the body of the site. This image is narrower for screens of a smaller width (I Pad and Cell phone) in order to avoid white space at the foot of the page.</p> 
+<p>On the “photographs”, “listen” and “testimonials” pages the content appears side by side on desktops and stacked above each other on smaller screens.</p> 
+<p>On the “Contact the Weavers” page, the width of the padding is less on smaller screens in order to avoid the content being too vertical on mobiles and tablets.</p> 
+
+<h2>Bugs identified during testing:</h2> 
+<p>There were no fatal bugs identified during the testing but validator.w3.org identified a few issues with syntax (the Bootstrap JavaScript links were incorrectly positioned, and images had no alternative).</p>
+
+<h2>Deployment</h2> 
+
+<p>The project has been deployed on GitHub Pages. A commit was done for each page once originally created with additional commits as functionality was improved / added.</p> 
+<p>For the site to function correctly when published from Github, it was necessary to enter settings > Github Pages and change the source to Master Branch. I then had to edit each page to that the links in the HTML code were correct for the Github deployment.</p> 
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -114,9 +132,14 @@ In particular, you should provide all details of the differences between the dep
 •	Different configuration files?
 •	Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
-Credits
-Media
-•	Music files and videos were supplied by Code Institute. 
-•	The photos used in this site were obtained from https://pxhere.com/en/tag/549. 
-Acknowledgements
-•	I’d like to thank those on Slack who assisted me with a few issues when I was unable to find the solutions on Google or by experimentation. In particular Anna Greaves, Anthony O’Brian and my mentor Seun provided valuable assistance and support. 
+
+<h2>Credits</h2>
+<h3>Media</h3>
+<ul>
+<li>Music files and videos were supplied by Code Institute.</li> 
+<li>The photos used in this site were obtained from https://pxhere.com/en/tag/549.</li> 
+</ul>
+
+<h2>Acknowledgements</h2>
+
+<p>I’d like to thank those on Slack who assisted me with a few issues when I was unable to find the solutions on Google or by experimentation. In particular Anna Greaves, Anthony O’Brian and my mentor Seun provided valuable assistance and support.</p> 
