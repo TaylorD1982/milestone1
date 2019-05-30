@@ -15,40 +15,61 @@ from those that have previously hired the band to play for them.</p>
 
 <h2>UX</h2>
 
-The website is for existing fans of the band, new fans who want an introduction to their material and prospective customers who wish to book the band for a function such as a wedding or birthday. 
-The site has a very simple and clean layout. There is a navigation par on every page provide clear links to listen to some of the bands tracks, see photographs of The Weavers in action and read the latest news. The final two pages allow you to read testimonials and send an enquiry to the band. 
-The ability to contact the band is a key concern and so a second link to the contact page is shown in the footer of the site. 
-In terms of the look of the site, The Weavers are quite a heavy rock outfit and so a dark colour scheme is best suited to their sound. It also provides a nice contrast to the psychedelic photos and landing page image of the band on stage. 
-Below are three user stories. Each scenario is explored in more detail in the testing section of this document. 
-1.	Alistair and Mandy are engaged with a wedding planned for six months’ time. They are fans of rock and roll and want an experienced outfit with a large back catalogue who can also take requests in advance of the big day and during the reception itself. They visit the page and immediately see that there is a page featuring testimonials from previous couples. They are impressed by the feedback and so hit the button in the footer of the site (“Get a Free Quote”) and complete the form with details of the event. 
+<p>The website is for existing fans of the band, new fans who want an introduction to their material and prospective customers who wish to book the band for a function such as a wedding or birthday.</p> 
 
-2.	Lonnie has been a fan of the band since the 1960s. He learned that once of the members of the band was in an accident on stage recently and wants to check on his condition. He visits the site and proceeds to the “News” where he sees a new story confirming that the patient is fine. He also sees that the band has added a new gig to their summer schedule and uses the link to visit an external ticketing site.  
+<p>The site has a very simple and clean layout. There is a navigation par on every page provide clear links to listen to some of the bands tracks, see photographs of The Weavers in action and read the latest news. The final two pages allow you to read testimonials and send an enquiry to the band.</p> 
 
-3.	A new fan (Thomas) saw the band at a festival. He wants to listen to some of their hits. Once he has done so, he decides he’d like to hear more and so visits the band’s YouTube channel using the relevant social media link. 
-A link to the original design of the site is shown below
+<p>The ability to contact the band is a key concern and so a second link to the contact page is shown in the footer of the site.</p> 
+
+<p>In terms of the look of the site, The Weavers are quite a heavy rock outfit and so a dark colour scheme is best suited to their sound. It also provides a nice contrast to the psychedelic photos and landing page image of the band on stage.</p> 
+  
+<p>Below are three user stories. Each scenario is explored in more detail in the testing section of this document.</p> 
+
+<ol>
+  <li>Alistair and Mandy are engaged with a wedding planned for six months’ time. They are fans of rock and roll and want an experienced outfit with a large back catalogue who can also take requests in advance of the big day and during the reception itself. They visit the page and immediately see that there is a page featuring testimonials from previous couples. They are impressed by the feedback and so hit the button in the footer of the site (“Get a Free Quote”) and complete the form with details of the event.</li> 
+
+  <li>Lonnie has been a fan of the band since the 1960s. He learned that once of the members of the band was in an accident on stage recently and wants to check on his condition. He visits the site and proceeds to the “News” where he sees a new story confirming that the patient is fine. He also sees that the band has added a new gig to their summer schedule and uses the link to visit an external ticketing site.</li>  
+
+<li>A new fan (Thomas) saw the band at a festival. He wants to listen to some of their hits. Once he has done so, he decides he’d like to hear more and so visits the band’s YouTube channel using the relevant social media link.</li> 
+</ol>
+  
+<p>A link to the original design of the site is shown below</P>
+
 ADD LINK
-Features
-The Header contains a banner image of the band’s logo. 
-Existing Features
-1.	Feature 1 – In the header are links to six pages (Home, Listen, Photographs, News, Testimonials, Contact the Weavers). On smaller screen sizes, the navbar shrinks to a burger icon.
 
-2.	Feature 2 – The final element of the header are six social media links. These take visitors to the band’s YouTube, Facebook, Twitter, Instagram and Spotify pages. 
+<h2>Features</h2>
 
-3.	Feature 3 – The “Listen” page allows users to listen to five of the band’s tracks as well as watch one of the band’s videos. 
+<h3>Existing Features</h3>
 
-4.	Feature 4 – “Photographs” – This page shows a number of images of the band on stage as well as some shorts of happy, dancing wedding guests. 
+<ol>
+  <li>Feature 1 – In the header are links to six pages (Home, Listen, Photographs, News, Testimonials, Contact the Weavers). On smaller screen sizes, the navbar shrinks to a burger icon.</li>
 
-5.	Feature 5 – “News” – This page details the latest goings on with the Weavers. Any recently published stories are indicted with an icon. This section also includes any upcoming shows with a link to an external ticketing site. 
+<li>Feature 2 – The final element of the header are six social media links. These take visitors to the band’s YouTube, Facebook, Twitter, Instagram and Spotify pages.</li> 
 
-6.	Feature 6 – “Testimonials” – In order to attract bookings, the site includes some of the positive feedback that the band has received from their customers along with images of the smiling, happy couples. 
+<li>Feature 3 – The “Listen” page allows users to listen to five of the band’s tracks as well as watch one of the band’s videos.</li> 
 
-7.	Feature 7 – “Booking form” – This page allows prospective clients to easily contact the band and begin the process of having the Weavers appear at their function. The form is simple to use with instructions included as text within the various sections. 
-Features Left to Implement
+<li>Feature 4 – “Photographs” – This page shows a number of images of the band on stage as well as some shorts of happy, dancing wedding guests.</li> 
+
+<li>Feature 5 – “News” – This page details the latest goings on with the Weavers. Any recently published stories are indicted with an icon. This section also includes any upcoming shows with a link to an external ticketing site.</li> 
+
+<li>Feature 6 – “Testimonials” – In order to attract bookings, the site includes some of the positive feedback that the band has received from their customers along with images of the smiling, happy couples.</li> 
+
+<li>Feature 7 – “Booking form” – This page allows prospective clients to easily contact the band and begin the process of having the Weavers appear at their function. The form is simple to use with instructions included as text within the various sections.</li>
+</ol>
+  
+<h3>Features Left to Implement</h3>
+
 Upcoming gigs to include additional information such as maps, prices, times, directions. 
-Technologies Used
-•	JavaScript – The project uses Java script to allow functionality for the dropdown navigation menu. 
-•	Bootstrap – The project Uses Bootstrap 4 on the Navbar and Social media buttons
+
+<h2>Technologies Used</h2>
+
+<ul>
+  <li>JavaScript – The project uses Java script to allow functionality for the dropdown navigation menu.</li> 
+  <li>Bootstrap – The project Uses Bootstrap 4 on the Navbar and Social media buttons.</li>
+</ul>
 Query this
+  
+ 
 Testing
 The code was tests on validator.w3.org with errors identified and corrected. No errors were identified with the CSS file. 
 How the site works on various screen sizes was checked on developer tools in Google Chrome. 
