@@ -211,8 +211,15 @@
   background-color: black;
   padding-left: 50px;
   padding-right: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   color: white;
+ }
+ 
+  @media (max-width: 992px) {
+  .news {
+   padding-left: 20px;
+   padding-right: 20px;
+  }
  }
 
  .newspan {
