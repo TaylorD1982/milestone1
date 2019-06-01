@@ -177,7 +177,7 @@
   padding-top: 50px;
   text-align: center;
  }
- 
+
  @media (max-width: 992px) {
   .band-description {
    padding-left: 20px;
@@ -214,8 +214,8 @@
   padding-bottom: 30px;
   color: white;
  }
- 
-  @media (max-width: 992px) {
+
+ @media (max-width: 992px) {
   .news {
    padding-left: 20px;
    padding-right: 20px;
@@ -279,10 +279,6 @@
   font-weight: lighter;
  }
 
- .tracks {
-  text-align: center;
- }
-
  .listen-heading {
   font-family: 'Nanum Myeongjo', serif;
   font-size: 2em;
@@ -293,12 +289,13 @@
   padding-bottom: 40px;
  }
 
- audio {
-  width: 250px;
-  height: 54px;
- }
- 
  .blockquote-video {
-  border: 10px outset #ddd;
+  padding-bottom: 0px;
+  padding-top: 40px;
+  text-align: center;
+  color: #A9A9A9;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25em;
+  font-weight: lighter;
  }
  
