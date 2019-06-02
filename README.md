@@ -1,11 +1,8 @@
 <h1>The Weavers</h1>
 
-<p>The Weavers are a five-piece from Edinburgh who formed in 1963. They have a loyal following and are also available for private 
-functions.</p> 
+<p>The Weavers are a rock group from Edinburgh who formed in 1963. They have a small, loyal following but are looking to attract news fans and followers. In addition to playing festival and venues, the band can be booked for private functions.</p> 
 
-<p>This purpose of this project is to construct a website that has a nice, simple form and is user-friendly whilst providing 
-the content required by both existing fans of the band and prospective clients looking to hire the band for a private function. It is 
-easy to find details of the latest news, shows and photographs as well as contacting the band directly.</p> 
+<p>This purpose of this project is to construct a website with an attractive, simle form that reflects the band's sound while being easy and instinctive to navigate. The site allows visitors to listen to the band's music, catch up on the latest news. The prinicpal function of the site is to attract bookings for private functions such as birthdays and weddings. </p> 
 
 <p>Whilst the website will be regularly updated, the band has additional content on various Social Media platforms. The site therefore 
 contains simple to find links to these external sites.</p>  
