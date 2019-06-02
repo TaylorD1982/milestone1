@@ -2,13 +2,9 @@
 
 <p>The Weavers are a rock group from Edinburgh who formed in 1963. They have a small, loyal following but are looking to attract news fans and followers. In addition to playing festival and venues, the band can be booked for private functions.</p> 
 
-<p>This purpose of this project is to construct a website with an attractive, simle form that reflects the band's sound while being easy and instinctive to navigate. The site allows visitors to listen to the band's music, catch up on the latest news. The prinicpal function of the site is to attract bookings for private functions such as birthdays and weddings. </p> 
-
-<p>Whilst the website will be regularly updated, the band has additional content on various Social Media platforms. The site therefore 
-contains simple to find links to these external sites.</p>  
-
-<p>Finally, I include a testimonials page where prospective clients can see some of the great feedback that the band has received 
-from those that have previously hired the band to play for them.</p> 
+<p>I have constructed a website with an attractive, simle form with a design and colour-scheme that reflects the band's sound while being easy and instinctive to navigate. The site allows visitors to listen to the band's music and catch up on the latest news. Whilst the website will be regularly updated, the band has additional content on various Social Media platforms. The site therefore contains prominent links to these external pages.
+  
+<p>In addition to this, the site exists to attract bookings for private functions such as birthdays and weddings. To this end, there is a section of the site featuring testimonails from satisifed parties to have enaged the band in the past. There is also a contact form, allowing visitors to contact the band and request a quote for their own event. </p>  
 
 <h2>UX</h2>
 
