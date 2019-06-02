@@ -33,9 +33,15 @@ from those that have previously hired the band to play for them.</p>
 <li>A new fan (Thomas) saw the band at a festival. He wants to listen to some of their hits. Once he has done so, he decides he’d like to hear more and so visits the band’s YouTube channel using the relevant social media link.</li> 
 </ol>
   
-<p>A link to the original design of the site is shown below</P>
+<p>Immages of the original design of the site are below</P>
 
 <img width="100%" src="assets/images/Home page.png" alt="The Weavers"> 
+<img width="100%" src="assets/images/page 2.png" alt="The Weavers">
+<img width="100%" src="assets/images/page 3.png" alt="The Weavers">
+<img width="100%" src="assets/images/page 4.png" alt="The Weavers">
+<img width="100%" src="assets/images/page 5.png" alt="The Weavers">
+<img width="100%" src="assets/images/page 6.png" alt="The Weavers">
+<img width="100%" src="assets/images/page 7.png" alt="The Weavers">
 
 ADD LINK
 
