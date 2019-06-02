@@ -299,3 +299,28 @@
   font-weight: lighter;
  }
  
+  .mobileShow-video {
+  display: none;
+ }
+
+ @media only screen and (min-device-width: 0px) and (max-device-width: 1250px) {
+  .mobileShow-video {
+   display: inline;
+  }
+ }
+
+ .mobileHide-video {
+  display: inline;
+ }
+
+ @media only screen and (min-device-width: 0px) and (max-device-width: 1250px) {
+  .mobileHide-video {
+   display: none;
+  }
+ }
+ 
+ .mobileShow-video.mobileHide-video {
+  padding-bottom: 0px;
+  padding-top: 40px;
+  text-align: center;
+ }
