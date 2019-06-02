@@ -35,6 +35,8 @@ from those that have previously hired the band to play for them.</p>
   
 <p>A link to the original design of the site is shown below</P>
 
+<img width="100%" src="assets/images/Home page.png" alt="The Weavers"> 
+
 ADD LINK
 
 <h2>Features</h2>
