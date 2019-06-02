@@ -41,7 +41,7 @@ from those that have previously hired the band to play for them.</p>
 <img width="100%" src="assets/images/page 4.png" alt="The Weavers">
 <img width="100%" src="assets/images/page 5.png" alt="The Weavers">
 <img width="100%" src="assets/images/page 6.png" alt="The Weavers">
-<img width="100%" src="assets/images/page 7.png" alt="The Weavers">
+<img width="50%" src="assets/images/page 7.png" alt="The Weavers">
 
 ADD LINK
 
