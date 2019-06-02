@@ -34,8 +34,6 @@
 <img width="100%" src="assets/images/page 6.png" alt="The Weavers">
 <img width="50%" src="assets/images/page 7.png" alt="The Weavers">
 
-ADD LINK
-
 <h2>Features</h2>
 
 <h3>Existing Features</h3>
