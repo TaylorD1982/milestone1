@@ -2,17 +2,17 @@
 
 <p>The Weavers are a rock group from Edinburgh who formed in 1963. They have a small, loyal following but are looking to attract news fans and followers. In addition to playing festival and venues, the band can be booked for private functions.</p> 
 
-<p>I have constructed a website with an attractive, simle form that has a design and colour-scheme which reflects the band's sound. The site allows visitors to listen to the band's music, watch videos and catch up on the latest news. Whilst the website will be regularly updated, the band has additional content on various social media platforms. The site therefore contains prominent links to these external pages.
+<p>I have constructed a website with an attractive, simple form that has a design and colour-scheme which reflects the band's sound. The site allows visitors to listen to the band's music, watch videos and catch up on the latest news. Whilst the website will be regularly updated, the band has additional content on various social media platforms. The site therefore contains prominent links to these external pages.
   
-<p>The site also exists to attract bookings for private functions, such as birthdays and weddings. To this end, there is a section of the site featuring testimonails from satisifed customers. There is also a contact form, allowing visitors to contact the band and request a quote for their own event. </p>  
+<p>The site also exists to attract bookings for private functions, such as birthdays and weddings. To this end, there is a section of the site featuring testimonials from satisfied customers. There is also a contact form, allowing visitors to contact the band and request a quote for their own event. </p>  
 
 <h2>UX</h2>
 
-<p>The site has a very simple and clean layout. There is a navigation par on every page allowing visitors to listen to some of the bands tracks, see photographs of The Weavers in action and read the latest news. The final two pages allow you to read testimonials and send an enquiry to the band.</p> 
+<p>The site has a very simple and clean layout. There is a navigation par on every page allowing visitors to listen to some of the band's tracks, see photographs of The Weavers in action and read the latest news. The final two pages allow you to read testimonials and send an enquiry to the band.</p> 
 
 <p>The ability to contact the band is a key concern so a second link to the contact page is shown in the footer of the site.</p> 
 
-<p>In terms of the appearence of the site, The Weavers are a heavy rock and roll outfit and so a dark colour scheme is best suited to their sound. It also provides a nice contrast to the splashes to colour in the photographs and landing page.</p> 
+<p>In terms of the appearance of the site, The Weavers are a heavy rock and roll outfit and so a dark colour scheme is best suited to their sound. It also provides a nice contrast to the splashes to colour in the photographs and landing page.</p> 
   
 <p>Below are three user stories. Each scenario is explored in more detail in the testing section of this document.</p> 
 
@@ -24,14 +24,9 @@
 <li>A new fan (Thomas) saw the band at a festival. He wants to listen to some of their hits. Once he has done so, he decides he’d like to hear more and so visits the band’s YouTube channel using the relevant social media link.</li> 
 </ol>
   
-<p>Immages of the original design of the site are below</P>
+<p>Images of the original design of the site are below</P>
 
 <img width="100%" src="assets/images/Home page.png" alt="The Weavers"> 
-<img width="100%" src="assets/images/page 2.png" alt="The Weavers">
-<img width="100%" src="assets/images/page 3.png" alt="The Weavers">
-<img width="100%" src="assets/images/page 4.png" alt="The Weavers">
-<img width="100%" src="assets/images/page 5.png" alt="The Weavers">
-<img width="100%" src="assets/images/page 6.png" alt="The Weavers">
 <img width="50%" src="assets/images/page 7.png" alt="The Weavers">
 
 <h2>Features</h2>
@@ -59,7 +54,7 @@
   
 <h3>Features Left to Implement</h3>
 
-I'd like to include another page featuring a list of alll of the band's upcoming shows. This page will include additional information such as maps, prices, times, directions. 
+I'd like to include another page featuring a list of all of the band's upcoming shows. This page will include additional information such as maps, prices, times, directions. 
 
 <h2>Technologies Used</h2>
 
@@ -123,7 +118,7 @@ I'd like to include another page featuring a list of alll of the band's upcoming
 
 <p>The project has been deployed on GitHub Pages (https://taylord1982.github.io/milestone1/index.html). A commit was done for each page once it was originally created with additional commits as functionality was improved / added.</p> 
 
-<p>For the site to function correctly when published from Github, it was necessary to enter settings > Github Pages and change the source to Master Branch. I then had to edit each page to that the links in the HTML code were correct for the Github deployment. I discovered at this point that Github does not support MP3 and MP4 files. This necessitated a new approach to the "Listen" page. Instead of playing tracks, I embedding the music from Spotify and the music video from Youtube. Unfortunately, Spotify only allows snppets of music and requires you to visit teir site in order to hear more. A link to spotify is included which will allow visitors to do this.</p> 
+<p>For the site to function correctly when published from Github, it was necessary to enter settings > Github Pages and change the source to Master Branch. I then had to edit each page to that the links in the HTML code were correct for the Github deployment. I discovered at this point that Github does not support MP3 and MP4 files. This necessitated a new approach to the "Listen" page. Instead of playing tracks, I embedded the music from Spotify and the music video from Youtube. Unfortunately, Spotify only allows snippets of music and requires you to visit their site in order to hear more. A link to Spotify is included which will allow visitors to do this.</p> 
 
 <h2>Credits</h2>
 <h3>Media</h3>
