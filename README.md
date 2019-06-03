@@ -52,6 +52,9 @@
 <li>Feature 6 – “Testimonials” – In order to attract bookings, the site includes some of the positive feedback that the band has received from their customers along with images of the smiling, happy couples.</li> 
 
 <li>Feature 7 – “Booking form” – This page allows prospective clients to easily contact the band and begin the process of having the Weavers appear at their function. The form is simple to use with instructions included as text within the various sections.</li>
+
+<li>Feature 7 – Clicking on the banner image returns the user to the site's landing page.</li>
+
 </ol>
   
 <h3>Features Left to Implement</h3>
