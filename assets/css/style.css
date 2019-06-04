@@ -1,4 +1,4 @@
- /*-------------------------Banner Image--------*/
+ /*-------------------------Banner Image styling--------*/
 
  .mobileShow {
   display: none;
@@ -20,28 +20,29 @@
   }
  }
 
+ /*-------------------------Landing Page Main Image styling--------*/
 
- .mobileShow1 {
+ .home-page-image-display {
   display: none;
  }
 
  @media only screen and (min-device-width: 0px) and (max-device-width: 1000px) {
-  .mobileShow1 {
+  .home-page-image-display {
    display: inline;
   }
  }
 
- .mobileHide1 {
+ .home-page-image-hide {
   display: inline;
  }
 
  @media only screen and (min-device-width: 0px) and (max-device-width: 1000px) {
-  .mobileHide1 {
+  .home-page-image-hide {
    display: none;
   }
  }
 
- /*-------------------------Social Media--------*/
+ /*-------------------------Social Media Icons--------*/
 
  .social-media-icons {
   text-align: center;
@@ -49,7 +50,7 @@
   color: #e1e1e1;
   word-spacing: 25px;
   font-size: 1.75em;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
  }
 
  a {
@@ -62,7 +63,7 @@
   color: #d4d4d6;
  }
 
- /*-------------------------Nav Bar--------*/
+ /*-------------------------Navigation Bar--------*/
 
  .navbar-nav {
   font-family: 'Nanum Myeongjo', serif;
@@ -82,7 +83,7 @@
 
  /*-------------------------Footer--------*/
 
- .blockquote {
+ .footer {
   padding-bottom: 0px;
   padding-top: 40px;
   text-align: center;
@@ -125,7 +126,7 @@
   text-align: center;
  }
 
- .photo-heading-live {
+ .photo-heading-description {
   font-family: 'Nanum Myeongjo', serif;
   font-size: 1.5em;
   background-color: black;
@@ -168,7 +169,7 @@
   }
  }
 
- /*-------------------------Forms--------*/
+ /*------------------Book The Weavers--------*/
 
  .form-group {
   color: rgb(194, 194, 163);
@@ -268,7 +269,7 @@
   width: 50px;
  }
 
- .new-heading {
+ .news-heading {
   font-family: 'Nanum Myeongjo', serif;
   font-size: 2em;
   background-color: black;
@@ -307,16 +308,6 @@
 
  /*-------------------------Listen--------*/
 
- .blockquote-listen {
-  padding-top: 40px;
-  text-align: center;
-  color: #A9A9A9;
-  background-color: black;
-  font-family: 'EB Garamond', serif;
-  font-size: 1.25em;
-  font-weight: lighter;
- }
-
  .listen-heading {
   font-family: 'Nanum Myeongjo', serif;
   font-size: 2em;
@@ -324,11 +315,11 @@
   color: rgb(194, 194, 163);
   padding-top: 15px;
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 25px;
  }
 
  .listen-sub-heading {
-  padding-bottom: 30px;
+  padding-bottom: 40px;
   padding-top: 40px;
   text-align: center;
   color: #A9A9A9;
